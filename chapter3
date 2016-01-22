@@ -1,0 +1,10 @@
+package lesson;
+
+public class Exercise01 {
+	public static void main(String[]args)
+	{
+		System.out.print("We will not use'Hello,world!'\t\n");//is that cute?
+		System.out.println("xxxxxxxxxxx");
+	}
+	
+}
